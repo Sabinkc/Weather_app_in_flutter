@@ -5,7 +5,6 @@ import 'package:lottie/lottie.dart';
 import 'package:weather_app/services/weather_service.dart';
 
 import '../models/weather_model.dart';
-
 class WeatherPage extends StatefulWidget {
   const WeatherPage({super.key});
 
@@ -102,3 +101,4 @@ class _WeatherPageState extends State<WeatherPage> {
     );
   }
 }
+
